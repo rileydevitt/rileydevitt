@@ -7,21 +7,6 @@ I enjoy working on problems involving real-time data, system design, performance
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=rileydevitt&style=flat&color=blue)
 
-
-## Featured Projects
-
-### BUS — Real-Time Transit Platform
-Real-time backend ingesting GTFS static schedules and GTFS-Realtime protobuf feeds to compute live vehicle ETAs at network scale.  
-**Tech:** Node.js, TypeScript, GTFS-Realtime, REST APIs  
-
-### LowBallr — Swipe-Based Marketplace
-Mobile marketplace application with event-sourced interaction tracking, secure multi-tenant data access, and analytics aggregation.  
-**Tech:** React Native, PostgreSQL, Supabase  
-
-### DueList — AI Task Planner
-AI-powered task planning app that extracts structured tasks from uploaded documents using schema-validated LLM outputs.  
-**Tech:** React, Serverless, LLM APIs  
-
 ---
 ## Tech Stack
 
