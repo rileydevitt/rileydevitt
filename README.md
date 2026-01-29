@@ -50,4 +50,4 @@ Machine Learning · Large Language Models · RAG · HuggingFace
 ## 📫 Get in touch
 
 - [LinkedIn](https://www.linkedin.com/in/rileydevitt/)
-- Email: rileydevitt@dal.ca
+- rileydevitt@dal.ca
