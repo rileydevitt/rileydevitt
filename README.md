@@ -11,24 +11,16 @@ I enjoy working on problems involving real-time data, system design, performance
 ## Tech Stack
 
 ### Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/>
+[![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,java,python,c,swift&theme=dark)](https://skillicons.dev)
 
-### Frameworks & Runtime
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
+### Frameworks & Libraries
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,express,nodejs,fastapi,vite,tailwind&theme=dark)](https://skillicons.dev)
 
 ### Databases
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+[![Databases](https://skillicons.dev/icons?i=postgresql,mongodb,firebase,supabase&theme=dark)](https://skillicons.dev)
 
-### Infrastructure & Tooling
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-
-### Systems & Concepts
-Backend Development · Full-Stack Development · REST APIs ·  
-Real-Time Systems · Event-Driven Architecture · Data Pipelines ·  
-Caching · Authentication & Authorization
-
-### AI / ML
-Machine Learning · Large Language Models · RAG · HuggingFace
+### Tools & Platforms
+[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,vercel,unity,prisma&theme=dark)](https://skillicons.dev)
 
 ---
 
