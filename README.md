@@ -5,6 +5,13 @@ I'm a Computer Science student at Dalhousie University focused on building real-
 I enjoy working on problems involving real-time data, system design, performance, and reliability.
 
 ---
+## Live Projects
+
+https://lowballr.vercel.app/
+
+https://reachhfx.vercel.app/
+
+---
 ## Tech Stack
 
 ### Languages
