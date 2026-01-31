@@ -7,9 +7,8 @@ I enjoy working on problems involving real-time data, system design, performance
 ---
 ## Live Projects
 
-https://lowballr.vercel.app/
-
-https://reachhfx.vercel.app/
+- [Lowballr](https://lowballr.vercel.app/)
+- [ReachHFX](https://reachhfx.vercel.app/)
 
 ---
 ## Tech Stack
