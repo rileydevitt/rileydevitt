@@ -23,7 +23,7 @@ I enjoy working on problems involving real-time data, system design, performance
 [![Databases](https://skillicons.dev/icons?i=mongodb,firebase,supabase&theme=dark)](https://skillicons.dev)
 
 ### Tools & Platforms
-[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,vercel,unity,prisma&theme=dark)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,vercel,unity&theme=dark)](https://skillicons.dev)
 
 ---
 
