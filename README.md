@@ -17,10 +17,10 @@ I enjoy working on problems involving real-time data, system design, performance
 [![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,java,python,c,swift&theme=dark)](https://skillicons.dev)
 
 ### Frameworks & Libraries
-[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,express,nodejs,fastapi,vite,tailwind&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind&theme=dark)](https://skillicons.dev)
 
 ### Databases
-[![Databases](https://skillicons.dev/icons?i=postgresql,mongodb,firebase,supabase&theme=dark)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mongodb,firebase,supabase&theme=dark)](https://skillicons.dev)
 
 ### Tools & Platforms
 [![Tools](https://skillicons.dev/icons?i=git,github,gitlab,docker,vscode,vercel,unity,prisma&theme=dark)](https://skillicons.dev)
